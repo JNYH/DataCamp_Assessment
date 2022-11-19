@@ -1,2 +1,2 @@
 # DataCamp_Assessment
-This is to note the tests taken in DataCamp Assessment
+This is to register the tests taken in DataCamp Assessment
